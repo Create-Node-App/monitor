@@ -2,7 +2,7 @@
   {
     "name": "Marketplace",
     "url": "https://create-node-app.github.io/marketplace/",
-    "icon": "https://favicons.githubusercontent.com/create-node-app.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/create-node-app.github.io.ico",
     "slug": "marketplace",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 110,
+    "timeDay": 111,
+    "timeWeek": 131,
+    "timeMonth": 109,
     "timeYear": 88,
     "dailyMinutesDown": {}
   }
